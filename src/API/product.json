@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.unsplash.com/photo-1520170350707-b2da59970118?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aGVhZHBob25lfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "title": "Headphone",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Black",
+        "category": "Headphone",
+        "price": "$100"
+    },
+    {
+        "id": 2,
+        "image": "https://images.unsplash.com/photo-1578319439584-104c94d37305?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "title": "Airpods",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Black",
+        "category": "Airpods",
+        "price": "$70"
+    },
+    {
+        "id": 3,
+        "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bWFjYm9va3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "title": "Macbook",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Silver",
+        "category": "Laptop",
+        "price": "$1270"
+    },
+    {
+        "id": 4,
+        "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHNhbXN1bmclMjBhMjElMjBtb2JpbGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "title": "Iphone 12",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Gray",
+        "category": "Mobile",
+        "price": "$700"
+    },
+    {
+        "id": 5,
+        "image": "https://images.unsplash.com/photo-1609388449750-b504ef6d97f1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fG9wcG98ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "title": "Oppo",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Gray",
+        "category": "Mobile",
+        "price": "$200"
+    },
+    {
+        "id": 6,
+        "image": "https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhbWVyYXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "title": "Cannon",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Black",
+        "category": "Camera",
+        "price": "$500"
+    },
+    {
+        "id": 7,
+        "image": "https://images.unsplash.com/photo-1604684768394-52a862c2955a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aHAlMjBsYXB0b3B8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "title": "HP Laptop",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Silver",
+        "category": "Laptop",
+        "price": "$800"
+    },
+    {
+        "id": 8,
+        "image": "https://images.unsplash.com/photo-1544603396-e4a163c7c658?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bWljcm9zb2Z0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "title": "Microsoft Laptop",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Silver",
+        "category": "Laptop",
+        "price": "$805"
+    },
+    {
+        "id": 9,
+        "image": "https://images.unsplash.com/photo-1554941426-5eb1f0a4e107?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fG1pY3JvcGhvbmV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "title": "Microphone",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Black",
+        "category": "Microphone",
+        "price": "$130"
+    },
+    {
+        "id": 10,
+        "image": "https://www.startech.com.bd/image/cache/catalog/monitor/asus/be229qlb/be229qlb-01-228x228.jpg",
+        "title": "ASUS Monitor 24`",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Black",
+        "category": "Monitor",
+        "price": "$130"
+    },
+    {
+        "id": 11,
+        "image": "https://www.startech.com.bd/image/cache/catalog/accessories/headset/asus/cerberus-v2/cerberus-v2-1-228x228.jpg",
+        "title": "ASUS Headset",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Black & Blue",
+        "category": "Headphone",
+        "price": "$230"
+    },
+    {
+        "id": 12,
+        "image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Logitech/gaming/g213-prodigy-gaming-keyboard-228x228.png",
+        "title": "Logitech Keyboard",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Black",
+        "category": "Keyboard",
+        "price": "$80"
+    },
+    {
+        "id": 13,
+        "image": "https://www.startech.com.bd/image/cache/catalog/security-camera/dahua/ranger-2c/ranger-2c-228x228.jpg",
+        "title": "Dahua imou Camera",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : White",
+        "category": "Camera",
+        "price": "$1200"
+    },
+    {
+        "id": 14,
+        "image": "https://www.startech.com.bd/image/cache/catalog/mouse/logitech/m585/m585-multi-device-500x500.jpg",
+        "title": "Logitech Mouse",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Black",
+        "category": "Mouse",
+        "price": "$120"
+    },
+    {
+        "id": 15,
+        "image": "https://www.startech.com.bd/image/cache/catalog/earphone/apple/airpods-pro/airpods-pro-1-228x228.jpg",
+        "title": "Apple AirPods Pro",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : White",
+        "category": "Airpods",
+        "price": "$1000"
+    },
+    {
+        "id": 16,
+        "image": "https://www.startech.com.bd/image/cache/catalog/Accessories/Rapoo/Keyboard/Rapoo%20V56/Rapoo%20V56-1-228x228.jpg",
+        "title": "Rappo Backlit Keyboard",
+        "description": "e dicta eius iure rerum maxime impedit eaque commodi. Eius, repellat.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore ma",
+        "color": "Color : Backlit",
+        "category": "Keyboard",
+        "price": "$400"
+    }
+]
